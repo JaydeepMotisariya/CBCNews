@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CBCNewsAndSports</string>
+    <string name="InternetConnectionTitle">No Internet</string>
+    <string name="InternetConnectionMessage">Check your Internet connection and try again.</string>
+    <string name="TurnOnText">Please turn on</string>
+    <string name="WifiButtonText">Wifi</string>
+    <string name="MobileDataText">Mobile data</string>
+    <string name="AirplaneModeText">No Internet</string>
+    <string name="AirplaneModeMessage">You have turned on the airplane mode.</string>
+    <string name="TurnOffText">Please turn off</string>
+    <string name="AirplaneMode">Airplane mode</string>
+</resources>
